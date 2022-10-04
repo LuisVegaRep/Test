@@ -1,4 +1,4 @@
-const x = 2;
+const x = 4;
 prompt(x);
 
 alert("Mas texto");
