@@ -1,1 +1,2 @@
-alert("Este texto hace algo");
+const x = 2;
+prompt(x);
